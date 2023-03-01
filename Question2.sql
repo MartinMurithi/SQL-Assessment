@@ -1,4 +1,4 @@
 
 SELECT *
 FROM Customers
-WHERE ReferralCustomerID != 2
+WHERE ReferralCustomerID != 2   
