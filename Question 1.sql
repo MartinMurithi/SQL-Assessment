@@ -3,7 +3,7 @@
 
 
 SELECT 
-	CustomerID
+	CustomerID, CustomerName
 FROM
 	Customers
 WHERE 
